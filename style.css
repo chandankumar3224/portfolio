@@ -16,7 +16,6 @@
 }
 .navbar {
   background-color: rgb(19, 20, 17);
-  position: fixed;
 }
 .navbuttons > a {
   font-size: 1.5rem;
